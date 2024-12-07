@@ -8,3 +8,7 @@ How to use:
 + then on the next line replace username and reponame with the appropriate strings
 + do the same here: `<a href="https://username.github.io/reponame/docs/home.html">Home</a> <!-- add more links here if you need to -->` also add extra links here
 + you are done!
+
+# info
+this has been in the makings since october i just uploaded it and fixed some stuff now, but these people got the experimental version:
+https://raymaster-team.github.io/docs/
